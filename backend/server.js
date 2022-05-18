@@ -15,5 +15,5 @@ connection.once('open', () => {
 console.log("MongoDB database connection established successfully");
 })
 app.listen(port, () => {6
-console.log(`Server iss  running on port: ${port}`);
+console.log(`Server isss  running on port: ${port}`);
 });
